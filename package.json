@@ -37,5 +37,8 @@
   "bugs": {
     "url": "https://github.com/mkg20001/libdocker/issues"
   },
-  "homepage": "https://github.com/mkg20001/libdocker#readme"
+  "homepage": "https://github.com/mkg20001/libdocker#readme",
+  "contributors": [
+    "mkg20001 <mkg20001@gmail.com>"
+  ]
 }
