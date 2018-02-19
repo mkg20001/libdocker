@@ -1,6 +1,6 @@
 {
   "name": "libdocker",
-  "version": "0.4.0",
+  "version": "0.3.0",
   "description": "A nodeJS wrapper for the docker command",
   "main": "src/index.js",
   "scripts": {
@@ -27,7 +27,9 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "aegir": "^13.0.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mkg20001/libdocker.git"
